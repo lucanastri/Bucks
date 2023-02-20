@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Bucks</string>
+
+    <string name="slide_title_1">Benvenuto su Bucks!</string>
+    <string name="slide_title_2">Gestisci i tuoi fondi</string>
+    <string name="slide_title_3">Aggiungi le tue carte e i tuoi conti</string>
+    <string name="slide_title_4">Visiona il tuo conto</string>
+    <string name="slide_title_5">Report personalizzati</string>
+
+    <string name="slide_description_1">L\'applicazione che ti aiuta a gestire i tuoi conti e le tue finanze!</string>
+    <string name="slide_description_2">Bucks ti permette di gestire facilmente e senza costi tutti i conti che desideri per tenere traccia della tua situazione finanziaria</string>
+    <string name="slide_description_3">Crea la tua raccolta personale dei tuoi conti e le tue carte in un\'unica app</string>
+    <string name="slide_description_4">Visualizza il bilancio del tuo conto con tutti i movimenti effettuati da te</string>
+    <string name="slide_description_5">Bucks creerà un report personale delle tue finanze da poter consultare ogni volta che ne senti il bisogno</string>
+
+    <string name="slide_skip">Salta</string>
+    <string name="slide_next">Successivo</string>
+
+    <string name="nav_cards">Conti</string>
+    <string name="nav_movements">Movimenti</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_settings">Impostazioni</string>
+
+    <string name="rail_fab_description">Aggiungi conto</string>
+
+    <string name="drawer_title">Seleziona una pagina</string>
+
+    <string name="cards_empty_title">Nessun conto rilevato</string>
+    <string name="cards_empty_subtitle">Aggiungi subito il tuo primo conto</string>
+    <string name="cards_search_placeholder">Cerca tra i tuoi conti…</string>
+    <string name="cards_search_close_description">Chiudi</string>
+    <string name="cards_empty_button">Inizia</string>
+
+    <string name="operation_title">Scegli l\'operazione da effettuare</string>
+    <string name="operation_insertfund_title">Conto</string>
+    <string name="operation_insertfund_subtitle">Aggiungi un nuovo conto</string>
+    <string name="operation_insertmovement_title">Transazione</string>
+    <string name="operation_insertmovement_subtitle">Aggiungi una nuova transazione</string>
+
+    <string name="fund_chooser_dialog_title">Scegli il conto</string>
+
+    <string name="movements_empty_title">Nessun movimento effettuato</string>
+
+    <string name="report_empty_title">Nessun report disponibile</string>
+    <string name="report_empty_subtitle">Aggiungi subito il tuo primo conto</string>
+    <string name="report_title">Bilancio</string>
+    <string name="report_header_total">Totale</string>
+    <string name="report_menu_item_1">Ultimo giorno</string>
+    <string name="report_menu_item_2">Ultima settimana</string>
+    <string name="report_menu_item_3">Ultimo mese</string>
+    <string name="report_menu_item_4">Ultimo anno</string>
+    <string name="report_menu_item_5">Sempre</string>
+
+    <string name="settings_header_application">Applicazione</string>
+    <string name="settings_currency_title">Valuta</string>
+    <string name="settings_currency_subtitle">Scegli la valuta</string>
+    <string name="settings_dateformat_title">Formato data e ora</string>
+    <string name="settings_dateformat_subtitle">Scegli il formato</string>
+    <string name="settings_report_filter_title">Report</string>
+    <string name="settings_report_filter_subtitle">Scegli il periodo del report</string>
+    <string name="settings_header_backup">Backup e ripristino</string>
+    <string name="settings_backup_title">Backup</string>
+    <string name="settings_backup_subtitle">Effettua il backup dei tuoi dati</string>
+    <string name="settings_backup_date">Ultimo backup:</string>
+    <string name="settings_backup_recover_title">Recupero Backup</string>
+    <string name="settings_backup_recover_subtitle">Scegli di recuperare i tuoi dati di backup</string>
+    <string name="settings_backup_recover_date">Ultimo recupero backup:</string>
+
+    <string name="backup_creation_title">Creazione Backup</string>
+    <string name="backup_creation_subtitle">Bucks sta creando il backup dei tuoi dati salvati, attendi che l\'operazione termini per continuare ad utilizzare l\'app…</string>
+    <string name="backup_recover_title">Recupero Backup</string>
+    <string name="backup_recover_subtitle">Bucks sta recuperando il backup dei dati precedentemente salvati, attendi che l\'operazione termini per continuare ad utilizzare l\'app…</string>
+    <string name="backup_creation_error">Errore nella creazione del backup</string>
+    <string name="backup_recover_error">Errore nel recupero del backup</string>
+    <string name="backup_creation_success">Backup creato con successo</string>
+    <string name="backup_recover_success">Backup recuperato con successo</string>
+    <string name="backup_creation_empty">Devi prima creare almeno un conto</string>
+    <string name="backup_recover_empty">Non è stato rilevato alcun backup sul dispositivo</string>
+
+    <string name="fund_type_wallet">Portafoglio</string>
+    <string name="fund_type_stash">Deposito</string>
+    <string name="fund_type_safe">Cassaforte</string>
+    <string name="fund_type_bankaccount">Conto</string>
+    <string name="fund_type_creditcard">Carta di credito</string>
+    <string name="fund_type_debitcard">Carta di debito</string>
+    <string name="fund_type_prepaidcard">Carta prepagata</string>
+
+    <string name="fund_category_savings">Risparmi</string>
+    <string name="fund_category_retirement">Pensione</string>
+    <string name="fund_category_education">Istruzione</string>
+    <string name="fund_category_sanitary">Sanitario</string>
+    <string name="fund_category_expenses">Spese</string>
+    <string name="fund_category_other">Altro</string>
+
+    <string name="fund_network_mastercard">Mastercard</string>
+    <string name="fund_network_maestro">Maestro</string>
+    <string name="fund_network_visa">Visa</string>
+    <string name="fund_network_americanexpress">American Express</string>
+    <string name="fund_network_other">Altro</string>
+
+    <string name="fund_bank_unicredit">Unicredit</string>
+    <string name="fund_bank_sanpaolo">Intesa Sanpaolo</string>
+    <string name="fund_bank_siena">Banca Monte dei Paschi di Siena</string>
+    <string name="fund_bank_lavoro">BNL</string>
+    <string name="fund_bank_Paypal">Paypal</string>
+    <string name="fund_bank_other">Altro</string>
+
+    <string name="clear">Cancella</string>
+    <string name="close">Torna indietro</string>
+    <string name="delete">Elimina</string>
+    <string name="edit">Modifica</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="tab_history">Storico</string>
+    <string name="tab_in">Entrate</string>
+    <string name="tab_out">Uscite</string>
+    <string name="amount_type_in">Entrata</string>
+    <string name="amount_type_out">Uscita</string>
+
+    <string name="delete_fund_title">Cancellazione</string>
+    <string name="delete_fund_subtitle">Sei sicuro di voler cancellare questo conto? Perderai tutti i movimenti collegati.</string>
+    <string name="delete_fund_confirm">Elimina questo conto</string>
+
+    <string name="add_card">Aggiungi conto</string>
+    <string name="title">Titolo</string>
+    <string name="type">Tipo</string>
+    <string name="category">Categoria</string>
+    <string name="serial">Numero seriale</string>
+    <string name="bank">Banca</string>
+    <string name="network">Circuito bancario</string>
+    <string name="iban">IBAN</string>
+    <string name="brand">Marca</string>
+    <string name="title_placeholder">Inserisci il titolo…</string>
+    <string name="serial_placeholder">Inserisci il numero seriale…</string>
+    <string name="iban_placeholder">Inserisci IBAN…</string>
+    <string name="brand_placeholder">Inserisci marca…</string>
+    <string name="save_card">Salva informazioni</string>
+
+    <string name="edit_card">Modifica conto</string>
+
+    <string name="add_movement">Aggiungi transazione</string>
+    <string name="add_movement_ref_label">Riferimento</string>
+    <string name="add_movement_sender_label">Mittente</string>
+    <string name="add_movement_sender_placeholder">Inserisci il mittente</string>
+    <string name="add_movement_receiver_label">Destinatario</string>
+    <string name="add_movement_receiver_placeholder">Inserisci il destinatario</string>
+    <string name="add_movement_title_label">Titolo</string>
+    <string name="add_movement_title_placeholder">Inserisci il titolo</string>
+    <string name="add_movement_description_label">Descrizione</string>
+    <string name="add_movement_description_placeholder">Inserisci la descrizione</string>
+    <string name="add_movement_type_label">Tipo transazione</string>
+    <string name="add_movement_amount_label">Valore transazione</string>
+    <string name="add_movement_amount_placeholder">Inserisci la quantità da trasferire</string>
+    <string name="add_movement_amount_supporting">Budget disponibile:</string>
+
+    <string name="currency_euro">Euro</string>
+    <string name="currency_dollar">Dollaro</string>
+    <string name="currency_pound">Sterlina</string>
+    <string name="currency_franc">Franco</string>
+    <string name="currency_yen">Yen</string>
+    <string name="currency_yuan">Yuan</string>
+
+    <string name="currency_euro_abbreviation">EUR</string>
+    <string name="currency_dollar_abbreviation">USD</string>
+    <string name="currency_pound_abbreviation">GBP</string>
+    <string name="currency_franc_abbreviation">CHF</string>
+    <string name="currency_yen_abbreviation">JPY</string>
+    <string name="currency_yuan_abbreviation">CNY</string>
+</resources>
