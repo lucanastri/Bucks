@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#191C1C</color>
+    <color name="splash_navigation">#191C1C</color>
+
+    <color name="surface1">#1f2626</color>
+    <color name="surface2">#232c2b</color>
+    <color name="surface3">#273131</color>
+    <color name="surface4">#293333</color>
+    <color name="surface5">#2b3737</color>
+</resources>

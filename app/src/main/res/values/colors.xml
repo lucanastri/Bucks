@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#FAFDFB</color>
+    <color name="splash_navigation">#FAFDFB</color>
+
+    <color name="surface1">#eff6f4</color>
+    <color name="surface2">#e8f2f0</color>
+    <color name="surface3">#e2eeec</color>
+    <color name="surface4">#dfedeb</color>
+    <color name="surface5">#dbeae8</color>
+
+    <color name="bnl">#1a151c</color>
+    <color name="on_bnl">#ffffff</color>
+    <color name="siena">#d4cdc8</color>
+    <color name="on_siena">#000000</color>
+    <color name="unicredit">#211f1f</color>
+    <color name="on_unicredit">#ffffff</color>
+    <color name="sanpaolo">#B38142</color>
+    <color name="on_sanpaolo">#FFFCEE</color>
+    <color name="paypal">#003087</color>
+    <color name="on_paypal">#EFEFEF</color>
+    <color name="wallet">#7B5A3B</color>
+    <color name="on_wallet">#EFEFEF</color>
+    <color name="stash">#2E343E</color>
+    <color name="on_stash">#EFEFEF</color>
+
+</resources>
